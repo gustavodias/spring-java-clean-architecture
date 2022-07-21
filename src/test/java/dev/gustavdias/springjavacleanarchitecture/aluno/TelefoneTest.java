@@ -2,7 +2,7 @@ package dev.gustavdias.springjavacleanarchitecture.aluno;
 
 import org.junit.jupiter.api.Test;
 
-import dev.gustavdias.springjavacleanarchitecture.escola.aluno.Telefone;
+import dev.gustavdias.springjavacleanarchitecture.escola.dominio.aluno.Telefone;
 
 import static org.junit.jupiter.api.Assertions.*;
 

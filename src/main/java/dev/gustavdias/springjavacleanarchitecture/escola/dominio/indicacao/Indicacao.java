@@ -1,8 +1,8 @@
-package dev.gustavdias.springjavacleanarchitecture.escola.indicacao;
+package dev.gustavdias.springjavacleanarchitecture.escola.dominio.indicacao;
 
 import java.time.LocalDateTime;
 
-import dev.gustavdias.springjavacleanarchitecture.escola.aluno.Aluno;
+import dev.gustavdias.springjavacleanarchitecture.escola.dominio.aluno.Aluno;
 
 public class Indicacao {
 

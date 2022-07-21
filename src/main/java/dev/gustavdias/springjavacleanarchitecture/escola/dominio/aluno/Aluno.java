@@ -1,4 +1,4 @@
-package dev.gustavdias.springjavacleanarchitecture.escola.aluno;
+package dev.gustavdias.springjavacleanarchitecture.escola.dominio.aluno;
 
 import java.util.ArrayList;
 import java.util.List;

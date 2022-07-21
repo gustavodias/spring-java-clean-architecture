@@ -1,4 +1,4 @@
-package dev.gustavdias.springjavacleanarchitecture.escola.aluno;
+package dev.gustavdias.springjavacleanarchitecture.escola.dominio.aluno;
 
 public class Telefone {
 

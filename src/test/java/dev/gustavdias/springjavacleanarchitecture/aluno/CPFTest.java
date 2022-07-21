@@ -2,7 +2,7 @@ package dev.gustavdias.springjavacleanarchitecture.aluno;
 
 import org.junit.jupiter.api.Test;
 
-import dev.gustavdias.springjavacleanarchitecture.escola.aluno.CPF;
+import dev.gustavdias.springjavacleanarchitecture.escola.dominio.aluno.CPF;
 
 import static org.junit.jupiter.api.Assertions.*;
 
