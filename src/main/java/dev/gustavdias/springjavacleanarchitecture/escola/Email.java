@@ -1,4 +1,4 @@
-package dev.gustavdias.springjavacleanarchitecture;
+package dev.gustavdias.springjavacleanarchitecture.escola;
 
 public class Email {
 
@@ -9,5 +9,9 @@ public class Email {
             throw new IllegalArgumentException("E-mail invalido!");
         }
         this.endereco = endereco;
+    }
+
+    public String getEndereco() {
+        return endereco;
     }
 }
