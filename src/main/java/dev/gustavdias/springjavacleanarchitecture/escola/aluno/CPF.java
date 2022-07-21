@@ -1,4 +1,4 @@
-package dev.gustavdias.springjavacleanarchitecture.escola;
+package dev.gustavdias.springjavacleanarchitecture.escola.aluno;
 
 public class CPF {
 

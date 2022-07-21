@@ -1,7 +1,8 @@
-package dev.gustavdias.springjavacleanarchitecture;
+package dev.gustavdias.springjavacleanarchitecture.aluno;
 
-import dev.gustavdias.springjavacleanarchitecture.escola.Email;
 import org.junit.jupiter.api.Test;
+
+import dev.gustavdias.springjavacleanarchitecture.escola.aluno.Email;
 
 import static org.junit.jupiter.api.Assertions.*;
 
